@@ -1,6 +1,6 @@
 # Quality Assurance with Chai
 
-This is the boilerplate for the Quality Assurance with Chai lessons.
+This is the boilerplate for the Quality Assurance with Chai lessons. The online repository is [here](https://replit.com/@danzitoleal/boilerplate-mochachai).
 
 Chai is a JavaScript testing library that helps you confirm that your program still behaves the way you expect it to after you make changes to your code.
 
